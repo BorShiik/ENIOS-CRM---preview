@@ -55,3 +55,32 @@ Na wczesnym etapie biznesu rzadko dysponuje się wolnymi środkami na opłacanie
 2. **Kontrola kosztów:** Szybszy i znacznie przyjaźniejszy sposób śledzenia skuteczności reklam za sprawą importu danych pod własny interfejs, pomijający skomplikowany portal Google Ads.
 3. **Mailing z pomocą AI:** Ogromna oszczędność cennego czasu trwonionego przy opisywaniu klientom. Zamiast wgłębiania się w gąszcz historycznej korespondencji, sztuczna inteligencja bada każdy nierozwiązany wątek i z miejsca sugeruje gotowego maila (follow-up).
 
+<details>
+  <summary>📸 Zobacz zrzuty ekranu aplikacji (Kliknij, aby rozwinąć)</summary>
+
+  ### Zarządzanie kontaktami
+  ![Contacts Page](screenshots/1.png)
+
+  Centralna baza kontaktów (Leadów) z systemem statusów i filtrowania.
+
+  ### Kreator kampanii – Sekcja nadawcy
+  ![Campaign creator](screenshots/2.png)
+
+  Konfiguracja i wybór kont SMTP do masowej wysyłki wiadomości.
+
+  ### Kreator kampanii – Edycja treści
+  ![Chat](screenshots/3.png)
+
+  Edytor treści kampanii z możliwością personalizacji wiadomości.
+
+  ### Panel statystyk kampanii
+  ![Client Dashboard](screenshots/4.png)
+
+  Analityka wydajności wysłanych kampanii (wskaźniki Open/Click Rate).
+
+  ### Ekstraktor adresów e-mail (Scraper)
+  ![Admin Dashboard](screenshots/5.png)
+
+  Asynchroniczne wyszukiwanie nowych kontaktów w oparciu o zapytania w Google.
+  
+</details>
