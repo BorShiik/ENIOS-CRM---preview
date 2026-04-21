@@ -59,7 +59,7 @@ Na wczesnym etapie biznesu rzadko dysponuje się wolnymi środkami na opłacanie
   <summary>📸 Zobacz zrzuty ekranu aplikacji (Kliknij, aby rozwinąć)</summary>
 
   ### Zarządzanie kontaktami
-  ![Contacts Page](screenshots/1.png)
+  ![Contacts Page](screenshots/5.png)
 
   Centralna baza kontaktów (Leadów) z systemem statusów i filtrowania.
 
@@ -79,7 +79,7 @@ Na wczesnym etapie biznesu rzadko dysponuje się wolnymi środkami na opłacanie
   Analityka wydajności wysłanych kampanii (wskaźniki Open/Click Rate).
 
   ### Ekstraktor adresów e-mail (Scraper)
-  ![Admin Dashboard](screenshots/5.png)
+  ![Admin Dashboard](screenshots/1.png)
 
   Asynchroniczne wyszukiwanie nowych kontaktów w oparciu o zapytania w Google.
   
